@@ -8,3 +8,10 @@
 * présenter mon profil de candidat au travers de mes réalisations
 * connaître les outils à ma disposition pour réaliser un ePortfolio
 * composer mon ePortfolio à partir des outils numériques
+
+## Qu’est-ce qu’un ePortfolio ?
+### Définition 1:
+ Il constitue une collection d’éléments de preuves de vos compétences, donc de ce que vous avez pratiqué.
+### Définition 2:
+Selon le ministère de l’Enseignement supérieur et de la Recherche Français, le ePortfolio peut se définir comme:
+<code>ensemble évolutif de documents et de ressources électroniques capitalisés dans un environnement numérique décrivant et illustrant l’apprentissage, l’expérience, les compétences ou le parcours de son auteur</code>
